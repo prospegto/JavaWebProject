@@ -1,7 +1,7 @@
 # JavaWebProject
 
 
-The application is framed in the academic environment of the institute I.E.S Velázquez , Sevilla. The school has different exams.
+The application is framed in the academic environment of the institute I.E.S Velázquez, Sevilla. The school has different exams.
 
 The professors will be responsible for managing their subjects, writing and correcting their exams.
 
