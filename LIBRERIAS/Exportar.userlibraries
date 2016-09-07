@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Exportar" systemlibrary="false">
+        <archive path="W:/Descargas/itext-5.4.0/itextpdf-5.4.0.jar"/>
+        <archive path="W:/Descargas/poi-bin-3.9-20121203/poi-3.9/poi-3.9-20121203.jar"/>
+    </library>
+</eclipse-userlibraries>
